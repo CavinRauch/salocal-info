@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SA Info</title>
-    <link>www.salocal.info/tags/</link>
+    <link>//www.salocal.info/tags/</link>
     <description>Recent content in Tags on SA Info</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jun 2022 20:24:56 +0200</lastBuildDate><atom:link href="www.salocal.info/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Jun 2022 20:24:56 +0200</lastBuildDate><atom:link href="//www.salocal.info/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>sassa srd</title>
-      <link>www.salocal.info/tags/sassa-srd/</link>
+      <link>//www.salocal.info/tags/sassa-srd/</link>
       <pubDate>Tue, 07 Jun 2022 20:24:56 +0200</pubDate>
       
-      <guid>www.salocal.info/tags/sassa-srd/</guid>
+      <guid>//www.salocal.info/tags/sassa-srd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>srd grant status check</title>
-      <link>www.salocal.info/tags/srd-grant-status-check/</link>
+      <link>//www.salocal.info/tags/srd-grant-status-check/</link>
       <pubDate>Tue, 07 Jun 2022 20:24:56 +0200</pubDate>
       
-      <guid>www.salocal.info/tags/srd-grant-status-check/</guid>
+      <guid>//www.salocal.info/tags/srd-grant-status-check/</guid>
       <description></description>
     </item>
     
