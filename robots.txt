@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.salocal.info/sitemap.xml

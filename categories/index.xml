@@ -1,18 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on SA Info</title>
     <link>https://www.salocal.info/categories/</link>
     <description>Recent content in Categories on SA Info</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jun 2022 20:24:56 +0200</lastBuildDate><atom:link href="https://www.salocal.info/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Jun 2022 22:15:50 +0200</lastBuildDate><atom:link href="https://www.salocal.info/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>R350 Grant</title>
+      <link>https://www.salocal.info/categories/r350-grant/</link>
+      <pubDate>Wed, 29 Jun 2022 22:15:50 +0200</pubDate>
+      
+      <guid>https://www.salocal.info/categories/r350-grant/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>sassa</title>
       <link>https://www.salocal.info/categories/sassa/</link>
-      <pubDate>Tue, 07 Jun 2022 20:24:56 +0200</pubDate>
+      <pubDate>Wed, 29 Jun 2022 22:15:50 +0200</pubDate>
       
       <guid>https://www.salocal.info/categories/sassa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>license</title>
+      <link>https://www.salocal.info/categories/license/</link>
+      <pubDate>Wed, 29 Jun 2022 21:09:52 +0200</pubDate>
+      
+      <guid>https://www.salocal.info/categories/license/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>traffic department</title>
+      <link>https://www.salocal.info/categories/traffic-department/</link>
+      <pubDate>Wed, 29 Jun 2022 21:09:52 +0200</pubDate>
+      
+      <guid>https://www.salocal.info/categories/traffic-department/</guid>
       <description></description>
     </item>
     
