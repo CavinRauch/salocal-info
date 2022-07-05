@@ -4,6 +4,10 @@
     <title>Tags on SA Info</title>
     <link>https://www.salocal.info/tags/</link>
     <description>Recent content in Tags on SA Info</description>
+    <image>
+      <url>https://www.salocal.info/img/logo/logo.svg</url>
+      <link>https://www.salocal.info/img/logo/logo.svg</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 29 Jun 2022 22:15:50 +0200</lastBuildDate><atom:link href="https://www.salocal.info/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
