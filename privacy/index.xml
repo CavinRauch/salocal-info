@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Privacies on SA Info</title>
-    <link>https://www.salocal.info/privacy/</link>
+    <link>https://salocal.info/privacy/</link>
     <description>Recent content in Privacies on SA Info</description>
     <image>
-      <url>https://www.salocal.info/img/logo/logo.svg</url>
-      <link>https://www.salocal.info/img/logo/logo.svg</link>
+      <url>https://salocal.info/img/logo/logo.svg</url>
+      <link>https://salocal.info/img/logo/logo.svg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 05 Jul 2022 11:21:34 +0200</lastBuildDate><atom:link href="https://www.salocal.info/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Jul 2022 11:21:34 +0200</lastBuildDate><atom:link href="https://salocal.info/privacy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Privacy Policy</title>
-      <link>https://www.salocal.info/privacy/policy/</link>
+      <link>https://salocal.info/privacy/policy/</link>
       <pubDate>Tue, 05 Jul 2022 11:21:34 +0200</pubDate>
       
-      <guid>https://www.salocal.info/privacy/policy/</guid>
+      <guid>https://salocal.info/privacy/policy/</guid>
       <description>We do not and will not assist or permit any third party to, pass information to Google that Google could use or recognize as personally identifiable information. We abide by an appropriate Privacy Policy. The Privacy Policy therefore aims to ensure that a User is provided with clear and comprehensive information about, and consents to, the storing and accessing of cookies or other information on the User’s device where such activity occurs in connection with the Service and where providing such information and obtaining such consent is required by law.</description>
     </item>
     

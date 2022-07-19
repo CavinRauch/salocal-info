@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>vehicle on SA Info</title>
-    <link>https://www.salocal.info/tags/vehicle/</link>
+    <link>https://salocal.info/tags/vehicle/</link>
     <description>Recent content in vehicle on SA Info</description>
     <image>
-      <url>https://www.salocal.info/img/logo/logo.svg</url>
-      <link>https://www.salocal.info/img/logo/logo.svg</link>
+      <url>https://salocal.info/img/logo/logo.svg</url>
+      <link>https://salocal.info/img/logo/logo.svg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 18 Jul 2022 22:34:44 +0200</lastBuildDate><atom:link href="https://www.salocal.info/tags/vehicle/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Jul 2022 22:34:44 +0200</lastBuildDate><atom:link href="https://salocal.info/tags/vehicle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>City of Cape Town Traffic Fine Payment Changes</title>
-      <link>https://www.salocal.info/za/fines/city-of-cape-town-traffic-fine-payment-changes/</link>
+      <link>https://salocal.info/za/fines/city-of-cape-town-traffic-fine-payment-changes/</link>
       <pubDate>Mon, 18 Jul 2022 22:34:44 +0200</pubDate>
       
-      <guid>https://www.salocal.info/za/fines/city-of-cape-town-traffic-fine-payment-changes/</guid>
+      <guid>https://salocal.info/za/fines/city-of-cape-town-traffic-fine-payment-changes/</guid>
       <description>The City has announced payment and provider changes for traffic fines as of July 2022. Here’s how to pay your traffic fines online or via shopping stores.</description>
     </item>
     
