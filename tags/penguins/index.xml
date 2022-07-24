@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>penguins on SA Info</title>
+    <link>https://salocal.info/tags/penguins/</link>
+    <description>Recent content in penguins on SA Info</description>
+    <image>
+      <url>https://salocal.info/img/logo/logo.svg</url>
+      <link>https://salocal.info/img/logo/logo.svg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 19 Jul 2022 18:24:44 +0200</lastBuildDate><atom:link href="https://salocal.info/tags/penguins/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Flightless Birds of the Cape Peninsula</title>
+      <link>https://salocal.info/travel/the-flightless-birds-of-the-cape-peninsula/</link>
+      <pubDate>Tue, 19 Jul 2022 18:24:44 +0200</pubDate>
+      
+      <guid>https://salocal.info/travel/the-flightless-birds-of-the-cape-peninsula/</guid>
+      <description>Explore Cape Town, take a guided tour to enjoy all the activities from the Cape Point Ostrich Farm to the must-see Penguin colony on Boulders Beach.</description>
+    </item>
+    
+  </channel>
+</rss>
