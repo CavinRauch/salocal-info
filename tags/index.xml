@@ -9,7 +9,34 @@
       <link>https://salocal.info/img/logo/logo.svg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 22 Jul 2022 20:20:25 +0200</lastBuildDate><atom:link href="https://salocal.info/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Jul 2022 11:37:37 +0200</lastBuildDate><atom:link href="https://salocal.info/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>license</title>
+      <link>https://salocal.info/tags/license/</link>
+      <pubDate>Sun, 31 Jul 2022 11:37:37 +0200</pubDate>
+      
+      <guid>https://salocal.info/tags/license/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>license renewal</title>
+      <link>https://salocal.info/tags/license-renewal/</link>
+      <pubDate>Sun, 31 Jul 2022 11:37:37 +0200</pubDate>
+      
+      <guid>https://salocal.info/tags/license-renewal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>traffic department</title>
+      <link>https://salocal.info/tags/traffic-department/</link>
+      <pubDate>Sun, 31 Jul 2022 11:37:37 +0200</pubDate>
+      
+      <guid>https://salocal.info/tags/traffic-department/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>finance</title>
       <link>https://salocal.info/tags/finance/</link>
@@ -97,33 +124,6 @@
       <pubDate>Mon, 18 Jul 2022 22:34:44 +0200</pubDate>
       
       <guid>https://salocal.info/tags/vehicle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>license</title>
-      <link>https://salocal.info/tags/license/</link>
-      <pubDate>Thu, 30 Jun 2022 21:09:52 +0200</pubDate>
-      
-      <guid>https://salocal.info/tags/license/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>license renewal</title>
-      <link>https://salocal.info/tags/license-renewal/</link>
-      <pubDate>Thu, 30 Jun 2022 21:09:52 +0200</pubDate>
-      
-      <guid>https://salocal.info/tags/license-renewal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>traffic department</title>
-      <link>https://salocal.info/tags/traffic-department/</link>
-      <pubDate>Thu, 30 Jun 2022 21:09:52 +0200</pubDate>
-      
-      <guid>https://salocal.info/tags/traffic-department/</guid>
       <description></description>
     </item>
     
