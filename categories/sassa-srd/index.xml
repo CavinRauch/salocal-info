@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>sassa grants on SA Info</title>
-    <link>https://salocal.info/categories/sassa-grants/</link>
-    <description>Recent content in sassa grants on SA Info</description>
+    <title>sassa srd on SA Info</title>
+    <link>https://salocal.info/categories/sassa-srd/</link>
+    <description>Recent content in sassa srd on SA Info</description>
     <image>
       <url>https://salocal.info/img/logo/logo.svg</url>
       <link>https://salocal.info/img/logo/logo.svg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 24 Feb 2023 20:22:50 +0200</lastBuildDate><atom:link href="https://salocal.info/categories/sassa-grants/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Feb 2023 20:22:50 +0200</lastBuildDate><atom:link href="https://salocal.info/categories/sassa-srd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>South African E-Wallets Help SRD Recipients Receive Funds</title>
       <link>https://salocal.info/za/sassa/south-african-e-wallets-help-srd-recipients-receive-funds/</link>
@@ -17,15 +17,6 @@
       
       <guid>https://salocal.info/za/sassa/south-african-e-wallets-help-srd-recipients-receive-funds/</guid>
       <description>Discover the benefits of digital wallets and how to fast-track payments for COVID-19 SRD. E-wallets and Cash Send services can help you receive funds easily.</description>
-    </item>
-    
-    <item>
-      <title>SASSA Grant requirements you need to know</title>
-      <link>https://salocal.info/za/sassa/sassa-grant-requirements/</link>
-      <pubDate>Tue, 02 Aug 2022 21:40:26 +0200</pubDate>
-      
-      <guid>https://salocal.info/za/sassa/sassa-grant-requirements/</guid>
-      <description>SASSA provides grants to South Africans that cannot provide for themselves. Here&amp;#39;s a list of all the grants and the requirements to apply.</description>
     </item>
     
   </channel>
