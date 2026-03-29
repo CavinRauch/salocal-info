@@ -2,13 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://salocal.info/about/</loc>
+    <lastmod>2026-03-29T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://salocal.info/authors/jean-rauch/</loc>
+    <lastmod>2026-03-29T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://salocal.info/authors/</loc>
+    <lastmod>2026-03-29T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://salocal.info/</loc>
+    <lastmod>2026-03-29T00:00:00+02:00</lastmod>
+  </url><url>
     <loc>https://salocal.info/tags/april-2026/</loc>
     <lastmod>2026-03-27T19:10:00+02:00</lastmod>
   </url><url>
     <loc>https://salocal.info/categories/</loc>
-    <lastmod>2026-03-27T19:10:00+02:00</lastmod>
-  </url><url>
-    <loc>https://salocal.info/categories/finance/</loc>
     <lastmod>2026-03-27T19:10:00+02:00</lastmod>
   </url><url>
     <loc>https://salocal.info/tags/fuel-price/</loc>
@@ -24,9 +33,6 @@
     <lastmod>2026-03-27T19:10:00+02:00</lastmod>
   </url><url>
     <loc>https://salocal.info/tags/petrol-price-south-africa/</loc>
-    <lastmod>2026-03-27T19:10:00+02:00</lastmod>
-  </url><url>
-    <loc>https://salocal.info/</loc>
     <lastmod>2026-03-27T19:10:00+02:00</lastmod>
   </url><url>
     <loc>https://salocal.info/tags/</loc>
@@ -47,16 +53,10 @@
     <loc>https://salocal.info/tags/sassa-grants/</loc>
     <lastmod>2023-02-24T20:52:27+02:00</lastmod>
   </url><url>
-    <loc>https://salocal.info/categories/sassa-grants/</loc>
-    <lastmod>2023-02-24T20:52:27+02:00</lastmod>
-  </url><url>
     <loc>https://salocal.info/za/sassa/sassa-old-age-disability-and-srd-r350-grant-updates-and-changes/</loc>
     <lastmod>2023-02-24T20:52:27+02:00</lastmod>
   </url><url>
     <loc>https://salocal.info/tags/sassa-srd/</loc>
-    <lastmod>2023-02-24T20:52:27+02:00</lastmod>
-  </url><url>
-    <loc>https://salocal.info/categories/sassa-srd/</loc>
     <lastmod>2023-02-24T20:52:27+02:00</lastmod>
   </url><url>
     <loc>https://salocal.info/za/sassa/extension-of-srd-grant-and-increase-in-child-support-and-foster-care-grants/</loc>
@@ -74,10 +74,10 @@
     <loc>https://salocal.info/za/license/driving-licence-card-online-renewal/</loc>
     <lastmod>2022-07-31T11:37:37+02:00</lastmod>
   </url><url>
-    <loc>https://salocal.info/tags/license/</loc>
+    <loc>https://salocal.info/categories/licences/</loc>
     <lastmod>2022-07-31T11:37:37+02:00</lastmod>
   </url><url>
-    <loc>https://salocal.info/categories/license/</loc>
+    <loc>https://salocal.info/tags/license/</loc>
     <lastmod>2022-07-31T11:37:37+02:00</lastmod>
   </url><url>
     <loc>https://salocal.info/tags/license-renewal/</loc>
@@ -86,10 +86,10 @@
     <loc>https://salocal.info/tags/traffic-department/</loc>
     <lastmod>2022-07-31T11:37:37+02:00</lastmod>
   </url><url>
-    <loc>https://salocal.info/categories/traffic-department/</loc>
-    <lastmod>2022-07-31T11:37:37+02:00</lastmod>
-  </url><url>
     <loc>https://salocal.info/tags/finance/</loc>
+    <lastmod>2022-07-22T20:20:25+02:00</lastmod>
+  </url><url>
+    <loc>https://salocal.info/categories/finance/</loc>
     <lastmod>2022-07-22T20:20:25+02:00</lastmod>
   </url><url>
     <loc>https://salocal.info/tags/inflation/</loc>
@@ -98,9 +98,6 @@
     <loc>https://salocal.info/za/finance/inflation-south-africa-2022/</loc>
     <lastmod>2022-07-22T20:20:25+02:00</lastmod>
   </url><url>
-    <loc>https://salocal.info/categories/r350-grant/</loc>
-    <lastmod>2022-07-20T06:59:07+02:00</lastmod>
-  </url><url>
     <loc>https://salocal.info/tags/srd-grant-status-check/</loc>
     <lastmod>2022-07-20T06:59:07+02:00</lastmod>
   </url><url>
@@ -108,9 +105,6 @@
     <lastmod>2022-07-20T06:59:07+02:00</lastmod>
   </url><url>
     <loc>https://salocal.info/tags/cape-town/</loc>
-    <lastmod>2022-07-19T18:24:44+02:00</lastmod>
-  </url><url>
-    <loc>https://salocal.info/categories/cape-town/</loc>
     <lastmod>2022-07-19T18:24:44+02:00</lastmod>
   </url><url>
     <loc>https://salocal.info/tags/penguins/</loc>
@@ -131,9 +125,6 @@
     <loc>https://salocal.info/tags/fine-payments/</loc>
     <lastmod>2022-07-18T22:34:44+02:00</lastmod>
   </url><url>
-    <loc>https://salocal.info/categories/fine-payments/</loc>
-    <lastmod>2022-07-18T22:34:44+02:00</lastmod>
-  </url><url>
     <loc>https://salocal.info/tags/traffic-fines/</loc>
     <lastmod>2022-07-18T22:34:44+02:00</lastmod>
   </url><url>
@@ -141,9 +132,6 @@
     <lastmod>2022-07-18T22:34:44+02:00</lastmod>
   </url><url>
     <loc>https://salocal.info/tags/vehicle/</loc>
-    <lastmod>2022-07-18T22:34:44+02:00</lastmod>
-  </url><url>
-    <loc>https://salocal.info/categories/vehicle/</loc>
     <lastmod>2022-07-18T22:34:44+02:00</lastmod>
   </url><url>
     <loc>https://salocal.info/privacy/</loc>

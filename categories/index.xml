@@ -11,120 +11,57 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 27 Mar 2026 19:10:00 +0200</lastBuildDate><atom:link href="https://salocal.info/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>finance</title>
-      <link>https://salocal.info/categories/finance/</link>
-      <pubDate>Fri, 27 Mar 2026 19:10:00 +0200</pubDate>
-      
-      <guid>https://salocal.info/categories/finance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>News</title>
       <link>https://salocal.info/categories/news/</link>
       <pubDate>Fri, 27 Mar 2026 19:10:00 +0200</pubDate>
       
       <guid>https://salocal.info/categories/news/</guid>
-      <description></description>
+      <description>Latest news and updates affecting South Africans.</description>
     </item>
     
     <item>
-      <title>travel</title>
+      <title>Travel</title>
       <link>https://salocal.info/categories/travel/</link>
       <pubDate>Fri, 27 Mar 2026 19:10:00 +0200</pubDate>
       
       <guid>https://salocal.info/categories/travel/</guid>
-      <description></description>
+      <description>South African travel guides and local things to do.</description>
     </item>
     
     <item>
-      <title>sassa</title>
+      <title>SASSA</title>
       <link>https://salocal.info/categories/sassa/</link>
       <pubDate>Fri, 24 Feb 2023 20:52:27 +0200</pubDate>
       
       <guid>https://salocal.info/categories/sassa/</guid>
-      <description></description>
+      <description>Guides and updates on SASSA grants, SRD applications, and payment methods.</description>
     </item>
     
     <item>
-      <title>sassa grants</title>
-      <link>https://salocal.info/categories/sassa-grants/</link>
-      <pubDate>Fri, 24 Feb 2023 20:52:27 +0200</pubDate>
-      
-      <guid>https://salocal.info/categories/sassa-grants/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sassa srd</title>
-      <link>https://salocal.info/categories/sassa-srd/</link>
-      <pubDate>Fri, 24 Feb 2023 20:52:27 +0200</pubDate>
-      
-      <guid>https://salocal.info/categories/sassa-srd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>license</title>
-      <link>https://salocal.info/categories/license/</link>
+      <title>Licences</title>
+      <link>https://salocal.info/categories/licences/</link>
       <pubDate>Sun, 31 Jul 2022 11:37:37 +0200</pubDate>
       
-      <guid>https://salocal.info/categories/license/</guid>
-      <description></description>
+      <guid>https://salocal.info/categories/licences/</guid>
+      <description>Driving licence renewals, learner licences, and vehicle disc renewals.</description>
     </item>
     
     <item>
-      <title>traffic department</title>
-      <link>https://salocal.info/categories/traffic-department/</link>
-      <pubDate>Sun, 31 Jul 2022 11:37:37 +0200</pubDate>
+      <title>Finance</title>
+      <link>https://salocal.info/categories/finance/</link>
+      <pubDate>Fri, 22 Jul 2022 20:20:25 +0200</pubDate>
       
-      <guid>https://salocal.info/categories/traffic-department/</guid>
-      <description></description>
+      <guid>https://salocal.info/categories/finance/</guid>
+      <description>South African inflation, fuel costs, and economic updates.</description>
     </item>
     
     <item>
-      <title>R350 Grant</title>
-      <link>https://salocal.info/categories/r350-grant/</link>
-      <pubDate>Wed, 20 Jul 2022 06:59:07 +0200</pubDate>
-      
-      <guid>https://salocal.info/categories/r350-grant/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cape-town</title>
-      <link>https://salocal.info/categories/cape-town/</link>
-      <pubDate>Tue, 19 Jul 2022 18:24:44 +0200</pubDate>
-      
-      <guid>https://salocal.info/categories/cape-town/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fine payments</title>
-      <link>https://salocal.info/categories/fine-payments/</link>
-      <pubDate>Mon, 18 Jul 2022 22:34:44 +0200</pubDate>
-      
-      <guid>https://salocal.info/categories/fine-payments/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>traffic fines</title>
+      <title>Traffic Fines</title>
       <link>https://salocal.info/categories/traffic-fines/</link>
       <pubDate>Mon, 18 Jul 2022 22:34:44 +0200</pubDate>
       
       <guid>https://salocal.info/categories/traffic-fines/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vehicle</title>
-      <link>https://salocal.info/categories/vehicle/</link>
-      <pubDate>Mon, 18 Jul 2022 22:34:44 +0200</pubDate>
-      
-      <guid>https://salocal.info/categories/vehicle/</guid>
-      <description></description>
+      <description>Paying traffic fines and updates on fine payment providers.</description>
     </item>
     
   </channel>
