@@ -9,7 +9,16 @@
       <link>https://salocal.info/img/logo/logo.svg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 27 Mar 2026 19:10:00 +0200</lastBuildDate><atom:link href="https://salocal.info/tags/fuel-price/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Mar 2026 16:52:26 +0200</lastBuildDate><atom:link href="https://salocal.info/tags/fuel-price/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Petrol Price Forecast for South Africa</title>
+      <link>https://salocal.info/za/petrol/petrol-price-forecast-south-africa/</link>
+      <pubDate>Sat, 28 Mar 2026 16:52:26 +0200</pubDate>
+      
+      <guid>https://salocal.info/za/petrol/petrol-price-forecast-south-africa/</guid>
+      <description>Daily petrol price forecast for South Africa.</description>
+    </item>
+    
     <item>
       <title>Petrol Price Increase South Africa: Huge April 2026 Hikes Expected</title>
       <link>https://salocal.info/za/petrol/petrol-price-increase-south-africa-april-2026/</link>
@@ -17,15 +26,6 @@
       
       <guid>https://salocal.info/za/petrol/petrol-price-increase-south-africa-april-2026/</guid>
       <description>Latest forecast for the South Africa petrol price increase in April 2026. Detailed tables for inland and coastal prices, including new fuel tax changes.</description>
-    </item>
-    
-    <item>
-      <title>Petrol Price Forecast for South Africa</title>
-      <link>https://salocal.info/za/petrol/petrol-price-forecast-south-africa/</link>
-      <pubDate>Fri, 27 Mar 2026 16:52:26 +0200</pubDate>
-      
-      <guid>https://salocal.info/za/petrol/petrol-price-forecast-south-africa/</guid>
-      <description>Daily petrol price forecast for South Africa.</description>
     </item>
     
   </channel>
