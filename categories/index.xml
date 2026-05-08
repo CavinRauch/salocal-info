@@ -9,14 +9,23 @@
       <link>https://salocal.info/img/logo/logo.svg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 28 Mar 2026 16:52:26 +0200</lastBuildDate><atom:link href="https://salocal.info/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 May 2026 15:00:00 +0200</lastBuildDate><atom:link href="https://salocal.info/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>News</title>
       <link>https://salocal.info/categories/news/</link>
-      <pubDate>Sat, 28 Mar 2026 16:52:26 +0200</pubDate>
+      <pubDate>Thu, 07 May 2026 15:00:00 +0200</pubDate>
       
       <guid>https://salocal.info/categories/news/</guid>
       <description>Latest news and updates affecting South Africans.</description>
+    </item>
+    
+    <item>
+      <title>SASSA</title>
+      <link>https://salocal.info/categories/sassa/</link>
+      <pubDate>Thu, 07 May 2026 12:00:00 +0200</pubDate>
+      
+      <guid>https://salocal.info/categories/sassa/</guid>
+      <description>Guides and updates on SASSA grants, SRD applications, and payment methods.</description>
     </item>
     
     <item>
@@ -26,15 +35,6 @@
       
       <guid>https://salocal.info/categories/travel/</guid>
       <description>South African travel guides and local things to do.</description>
-    </item>
-    
-    <item>
-      <title>SASSA</title>
-      <link>https://salocal.info/categories/sassa/</link>
-      <pubDate>Fri, 24 Feb 2023 20:52:27 +0200</pubDate>
-      
-      <guid>https://salocal.info/categories/sassa/</guid>
-      <description>Guides and updates on SASSA grants, SRD applications, and payment methods.</description>
     </item>
     
     <item>
