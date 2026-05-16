@@ -2,13 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://salocal.info/categories/</loc>
+    <lastmod>2026-05-16T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://salocal.info/tags/elder-grant/</loc>
+    <lastmod>2026-05-16T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://salocal.info/categories/news/</loc>
+    <lastmod>2026-05-16T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://salocal.info/tags/older-persons-grant/</loc>
+    <lastmod>2026-05-16T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://salocal.info/</loc>
+    <lastmod>2026-05-16T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://salocal.info/categories/sassa/</loc>
+    <lastmod>2026-05-16T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://salocal.info/tags/sassa-2026/</loc>
+    <lastmod>2026-05-16T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://salocal.info/tags/sassa-grant-increase/</loc>
+    <lastmod>2026-05-16T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://salocal.info/tags/sassa-grants/</loc>
+    <lastmod>2026-05-16T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://salocal.info/tags/sassa-old-age-grant/</loc>
+    <lastmod>2026-05-16T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://salocal.info/za/sassa/sassa-older-persons-grant-2026/</loc>
+    <lastmod>2026-05-16T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://salocal.info/tags/sassa-payment-dates/</loc>
+    <lastmod>2026-05-16T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://salocal.info/tags/</loc>
+    <lastmod>2026-05-16T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://salocal.info/za/</loc>
+    <lastmod>2026-05-16T09:00:00+02:00</lastmod>
+  </url><url>
     <loc>https://salocal.info/tags/basic-fuel-price/</loc>
     <lastmod>2026-05-07T15:00:00+02:00</lastmod>
   </url><url>
     <loc>https://salocal.info/tags/brent-crude/</loc>
-    <lastmod>2026-05-07T15:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://salocal.info/categories/</loc>
     <lastmod>2026-05-07T15:00:00+02:00</lastmod>
   </url><url>
     <loc>https://salocal.info/tags/cef/</loc>
@@ -26,25 +65,13 @@
     <loc>https://salocal.info/tags/june-2026/</loc>
     <lastmod>2026-05-07T15:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://salocal.info/categories/news/</loc>
-    <lastmod>2026-05-07T15:00:00+02:00</lastmod>
-  </url><url>
     <loc>https://salocal.info/tags/over-recovery/</loc>
     <lastmod>2026-05-07T15:00:00+02:00</lastmod>
   </url><url>
     <loc>https://salocal.info/tags/petrol-price/</loc>
     <lastmod>2026-05-07T15:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://salocal.info/</loc>
-    <lastmod>2026-05-07T15:00:00+02:00</lastmod>
-  </url><url>
     <loc>https://salocal.info/tags/south-africa/</loc>
-    <lastmod>2026-05-07T15:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://salocal.info/tags/</loc>
-    <lastmod>2026-05-07T15:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://salocal.info/za/</loc>
     <lastmod>2026-05-07T15:00:00+02:00</lastmod>
   </url><url>
     <loc>https://salocal.info/tags/diesel-price/</loc>
@@ -65,19 +92,10 @@
     <loc>https://salocal.info/tags/petrol-price-south-africa/</loc>
     <lastmod>2026-05-07T12:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://salocal.info/categories/sassa/</loc>
-    <lastmod>2026-05-07T12:00:00+02:00</lastmod>
-  </url><url>
     <loc>https://salocal.info/tags/sassa-grant-2026/</loc>
     <lastmod>2026-05-07T12:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://salocal.info/tags/sassa-grants/</loc>
-    <lastmod>2026-05-07T12:00:00+02:00</lastmod>
-  </url><url>
     <loc>https://salocal.info/tags/sassa-june-2026/</loc>
-    <lastmod>2026-05-07T12:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://salocal.info/tags/sassa-payment-dates/</loc>
     <lastmod>2026-05-07T12:00:00+02:00</lastmod>
   </url><url>
     <loc>https://salocal.info/tags/sassa-srd/</loc>
