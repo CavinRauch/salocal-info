@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://salocal.info/contact/</loc>
+    <lastmod>2026-11-24T12:00:00+02:00</lastmod>
+  </url><url>
     <loc>https://salocal.info/categories/</loc>
     <lastmod>2026-05-16T09:00:00+02:00</lastmod>
   </url><url>
@@ -122,17 +125,17 @@
     <loc>https://salocal.info/authors/</loc>
     <lastmod>2026-03-29T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://salocal.info/za/petrol/petrol-price-forecast-south-africa/</loc>
-    <lastmod>2026-03-28T16:52:26+02:00</lastmod>
-  </url><url>
-    <loc>https://salocal.info/categories/travel/</loc>
-    <lastmod>2026-03-28T16:52:26+02:00</lastmod>
-  </url><url>
     <loc>https://salocal.info/tags/april-2026/</loc>
     <lastmod>2026-03-27T19:10:00+02:00</lastmod>
   </url><url>
     <loc>https://salocal.info/za/petrol/petrol-price-increase-south-africa-april-2026/</loc>
     <lastmod>2026-03-27T19:10:00+02:00</lastmod>
+  </url><url>
+    <loc>https://salocal.info/categories/travel/</loc>
+    <lastmod>2026-03-28T16:52:26+02:00</lastmod>
+  </url><url>
+    <loc>https://salocal.info/za/petrol/petrol-price-forecast-south-africa/</loc>
+    <lastmod>2026-03-28T16:52:26+02:00</lastmod>
   </url><url>
     <loc>https://salocal.info/za/sassa/sassa-old-age-disability-and-srd-r350-grant-updates-and-changes/</loc>
     <lastmod>2023-02-24T20:52:27+02:00</lastmod>

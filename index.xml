@@ -11,6 +11,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 16 May 2026 09:00:00 +0200</lastBuildDate><atom:link href="https://salocal.info/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Contact Us</title>
+      <link>https://salocal.info/contact/</link>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0200</pubDate>
+      
+      <guid>https://salocal.info/contact/</guid>
+      <description>How to contact SA Info (salocal.info) with questions, corrections or feedback about our fuel price, SASSA and licence guides.</description>
+    </item>
+    
+    <item>
       <title>SASSA Older Persons Grant 2026: R2,400 Amount, May Payment Date &amp; eLife Alert</title>
       <link>https://salocal.info/za/sassa/sassa-older-persons-grant-2026/</link>
       <pubDate>Sat, 16 May 2026 09:00:00 +0200</pubDate>
@@ -65,21 +74,21 @@
     </item>
     
     <item>
-      <title>Petrol Price Forecast for South Africa</title>
-      <link>https://salocal.info/za/petrol/petrol-price-forecast-south-africa/</link>
-      <pubDate>Sat, 28 Mar 2026 16:52:26 +0200</pubDate>
-      
-      <guid>https://salocal.info/za/petrol/petrol-price-forecast-south-africa/</guid>
-      <description>Daily petrol price forecast for South Africa.</description>
-    </item>
-    
-    <item>
       <title>Petrol Price Increase South Africa: Huge April 2026 Hikes Expected</title>
       <link>https://salocal.info/za/petrol/petrol-price-increase-south-africa-april-2026/</link>
       <pubDate>Fri, 27 Mar 2026 19:10:00 +0200</pubDate>
       
       <guid>https://salocal.info/za/petrol/petrol-price-increase-south-africa-april-2026/</guid>
       <description>Latest forecast for the South Africa petrol price increase in April 2026. Detailed tables for inland and coastal prices, including new fuel tax changes.</description>
+    </item>
+    
+    <item>
+      <title>Petrol Price Forecast for South Africa</title>
+      <link>https://salocal.info/za/petrol/petrol-price-forecast-south-africa/</link>
+      <pubDate>Wed, 18 Mar 2026 22:58:53 +0200</pubDate>
+      
+      <guid>https://salocal.info/za/petrol/petrol-price-forecast-south-africa/</guid>
+      <description>Daily petrol price forecast for South Africa.</description>
     </item>
     
     <item>
