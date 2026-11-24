@@ -8,16 +8,6 @@
       <url>https://salocal.info/img/logo/logo.svg</url>
       <link>https://salocal.info/img/logo/logo.svg</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 22 Jul 2022 20:20:25 +0200</lastBuildDate><atom:link href="https://salocal.info/categories/finance/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>South Africans set to tighten their budgets once again as fuel and inflation increases</title>
-      <link>https://salocal.info/za/finance/inflation-south-africa-2022/</link>
-      <pubDate>Fri, 22 Jul 2022 20:20:25 +0200</pubDate>
-      
-      <guid>https://salocal.info/za/finance/inflation-south-africa-2022/</guid>
-      <description>Here’s the latest fuel prices as of July 2022. South Africans are set to tighten their budgets once again as inflation reaches an all time high of 7.4% in June 2022.</description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://salocal.info/categories/finance/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
