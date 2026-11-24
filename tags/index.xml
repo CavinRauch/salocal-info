@@ -9,12 +9,13 @@
       <link>https://salocal.info/img/logo/logo.svg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Sat, 16 May 2026 09:00:00 +0200</lastBuildDate><atom:link href="https://salocal.info/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>elder grant</title>
       <link>https://salocal.info/tags/elder-grant/</link>
       <pubDate>Sat, 16 May 2026 09:00:00 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/elder-grant/</guid>
       <description></description>
     </item>
@@ -23,7 +24,7 @@
       <title>older persons grant</title>
       <link>https://salocal.info/tags/older-persons-grant/</link>
       <pubDate>Sat, 16 May 2026 09:00:00 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/older-persons-grant/</guid>
       <description></description>
     </item>
@@ -32,7 +33,7 @@
       <title>sassa 2026</title>
       <link>https://salocal.info/tags/sassa-2026/</link>
       <pubDate>Sat, 16 May 2026 09:00:00 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/sassa-2026/</guid>
       <description></description>
     </item>
@@ -41,7 +42,7 @@
       <title>sassa grant increase</title>
       <link>https://salocal.info/tags/sassa-grant-increase/</link>
       <pubDate>Sat, 16 May 2026 09:00:00 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/sassa-grant-increase/</guid>
       <description></description>
     </item>
@@ -50,7 +51,7 @@
       <title>sassa grants</title>
       <link>https://salocal.info/tags/sassa-grants/</link>
       <pubDate>Sat, 16 May 2026 09:00:00 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/sassa-grants/</guid>
       <description></description>
     </item>
@@ -59,7 +60,7 @@
       <title>sassa old age grant</title>
       <link>https://salocal.info/tags/sassa-old-age-grant/</link>
       <pubDate>Sat, 16 May 2026 09:00:00 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/sassa-old-age-grant/</guid>
       <description></description>
     </item>
@@ -68,7 +69,7 @@
       <title>sassa payment dates</title>
       <link>https://salocal.info/tags/sassa-payment-dates/</link>
       <pubDate>Sat, 16 May 2026 09:00:00 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/sassa-payment-dates/</guid>
       <description></description>
     </item>
@@ -77,7 +78,7 @@
       <title>basic-fuel-price</title>
       <link>https://salocal.info/tags/basic-fuel-price/</link>
       <pubDate>Thu, 07 May 2026 15:00:00 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/basic-fuel-price/</guid>
       <description></description>
     </item>
@@ -86,7 +87,7 @@
       <title>brent-crude</title>
       <link>https://salocal.info/tags/brent-crude/</link>
       <pubDate>Thu, 07 May 2026 15:00:00 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/brent-crude/</guid>
       <description></description>
     </item>
@@ -95,7 +96,7 @@
       <title>cef</title>
       <link>https://salocal.info/tags/cef/</link>
       <pubDate>Thu, 07 May 2026 15:00:00 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/cef/</guid>
       <description></description>
     </item>
@@ -104,16 +105,16 @@
       <title>diesel</title>
       <link>https://salocal.info/tags/diesel/</link>
       <pubDate>Thu, 07 May 2026 15:00:00 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/diesel/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>fuel price</title>
+      <title>fuel-price</title>
       <link>https://salocal.info/tags/fuel-price/</link>
       <pubDate>Thu, 07 May 2026 15:00:00 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/fuel-price/</guid>
       <description></description>
     </item>
@@ -122,7 +123,7 @@
       <title>june-2026</title>
       <link>https://salocal.info/tags/june-2026/</link>
       <pubDate>Thu, 07 May 2026 15:00:00 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/june-2026/</guid>
       <description></description>
     </item>
@@ -131,7 +132,7 @@
       <title>over-recovery</title>
       <link>https://salocal.info/tags/over-recovery/</link>
       <pubDate>Thu, 07 May 2026 15:00:00 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/over-recovery/</guid>
       <description></description>
     </item>
@@ -140,7 +141,7 @@
       <title>petrol-price</title>
       <link>https://salocal.info/tags/petrol-price/</link>
       <pubDate>Thu, 07 May 2026 15:00:00 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/petrol-price/</guid>
       <description></description>
     </item>
@@ -149,7 +150,7 @@
       <title>south-africa</title>
       <link>https://salocal.info/tags/south-africa/</link>
       <pubDate>Thu, 07 May 2026 15:00:00 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/south-africa/</guid>
       <description></description>
     </item>
@@ -158,7 +159,7 @@
       <title>diesel price</title>
       <link>https://salocal.info/tags/diesel-price/</link>
       <pubDate>Thu, 07 May 2026 12:00:00 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/diesel-price/</guid>
       <description></description>
     </item>
@@ -167,7 +168,7 @@
       <title>fuel levy</title>
       <link>https://salocal.info/tags/fuel-levy/</link>
       <pubDate>Thu, 07 May 2026 12:00:00 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/fuel-levy/</guid>
       <description></description>
     </item>
@@ -176,7 +177,7 @@
       <title>middle east</title>
       <link>https://salocal.info/tags/middle-east/</link>
       <pubDate>Thu, 07 May 2026 12:00:00 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/middle-east/</guid>
       <description></description>
     </item>
@@ -185,16 +186,16 @@
       <title>petrol price increase</title>
       <link>https://salocal.info/tags/petrol-price-increase/</link>
       <pubDate>Thu, 07 May 2026 12:00:00 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/petrol-price-increase/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>petrol price south Africa</title>
+      <title>petrol price South Africa</title>
       <link>https://salocal.info/tags/petrol-price-south-africa/</link>
       <pubDate>Thu, 07 May 2026 12:00:00 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/petrol-price-south-africa/</guid>
       <description></description>
     </item>
@@ -203,7 +204,7 @@
       <title>sassa grant 2026</title>
       <link>https://salocal.info/tags/sassa-grant-2026/</link>
       <pubDate>Thu, 07 May 2026 12:00:00 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/sassa-grant-2026/</guid>
       <description></description>
     </item>
@@ -212,7 +213,7 @@
       <title>sassa june 2026</title>
       <link>https://salocal.info/tags/sassa-june-2026/</link>
       <pubDate>Thu, 07 May 2026 12:00:00 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/sassa-june-2026/</guid>
       <description></description>
     </item>
@@ -221,7 +222,7 @@
       <title>sassa srd</title>
       <link>https://salocal.info/tags/sassa-srd/</link>
       <pubDate>Thu, 07 May 2026 12:00:00 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/sassa-srd/</guid>
       <description></description>
     </item>
@@ -230,7 +231,7 @@
       <title>srd grant</title>
       <link>https://salocal.info/tags/srd-grant/</link>
       <pubDate>Thu, 07 May 2026 12:00:00 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/srd-grant/</guid>
       <description></description>
     </item>
@@ -239,7 +240,7 @@
       <title>srd grant status</title>
       <link>https://salocal.info/tags/srd-grant-status/</link>
       <pubDate>Thu, 07 May 2026 12:00:00 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/srd-grant-status/</guid>
       <description></description>
     </item>
@@ -248,7 +249,7 @@
       <title>srd r370</title>
       <link>https://salocal.info/tags/srd-r370/</link>
       <pubDate>Thu, 07 May 2026 12:00:00 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/srd-r370/</guid>
       <description></description>
     </item>
@@ -257,7 +258,7 @@
       <title>April 2026</title>
       <link>https://salocal.info/tags/april-2026/</link>
       <pubDate>Fri, 27 Mar 2026 19:10:00 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/april-2026/</guid>
       <description></description>
     </item>
@@ -266,7 +267,7 @@
       <title>sassa grant requirements</title>
       <link>https://salocal.info/tags/sassa-grant-requirements/</link>
       <pubDate>Tue, 02 Aug 2022 21:40:26 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/sassa-grant-requirements/</guid>
       <description></description>
     </item>
@@ -275,7 +276,7 @@
       <title>license</title>
       <link>https://salocal.info/tags/license/</link>
       <pubDate>Sun, 31 Jul 2022 11:37:37 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/license/</guid>
       <description></description>
     </item>
@@ -284,7 +285,7 @@
       <title>license renewal</title>
       <link>https://salocal.info/tags/license-renewal/</link>
       <pubDate>Sun, 31 Jul 2022 11:37:37 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/license-renewal/</guid>
       <description></description>
     </item>
@@ -293,7 +294,7 @@
       <title>traffic department</title>
       <link>https://salocal.info/tags/traffic-department/</link>
       <pubDate>Sun, 31 Jul 2022 11:37:37 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/traffic-department/</guid>
       <description></description>
     </item>
@@ -302,7 +303,7 @@
       <title>cape-town</title>
       <link>https://salocal.info/tags/cape-town/</link>
       <pubDate>Tue, 19 Jul 2022 18:24:44 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/cape-town/</guid>
       <description></description>
     </item>
@@ -311,7 +312,7 @@
       <title>penguins</title>
       <link>https://salocal.info/tags/penguins/</link>
       <pubDate>Tue, 19 Jul 2022 18:24:44 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/penguins/</guid>
       <description></description>
     </item>
@@ -320,7 +321,7 @@
       <title>travel</title>
       <link>https://salocal.info/tags/travel/</link>
       <pubDate>Tue, 19 Jul 2022 18:24:44 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/travel/</guid>
       <description></description>
     </item>
@@ -329,7 +330,7 @@
       <title>fine payments</title>
       <link>https://salocal.info/tags/fine-payments/</link>
       <pubDate>Mon, 18 Jul 2022 22:34:44 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/fine-payments/</guid>
       <description></description>
     </item>
@@ -338,7 +339,7 @@
       <title>traffic fines</title>
       <link>https://salocal.info/tags/traffic-fines/</link>
       <pubDate>Mon, 18 Jul 2022 22:34:44 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/traffic-fines/</guid>
       <description></description>
     </item>
@@ -347,7 +348,7 @@
       <title>vehicle</title>
       <link>https://salocal.info/tags/vehicle/</link>
       <pubDate>Mon, 18 Jul 2022 22:34:44 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/vehicle/</guid>
       <description></description>
     </item>
@@ -356,7 +357,7 @@
       <title>srd grant status check</title>
       <link>https://salocal.info/tags/srd-grant-status-check/</link>
       <pubDate>Wed, 29 Jun 2022 22:15:50 +0200</pubDate>
-      
+
       <guid>https://salocal.info/tags/srd-grant-status-check/</guid>
       <description></description>
     </item>

@@ -9,12 +9,13 @@
       <link>https://salocal.info/img/logo/logo.svg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Sat, 16 May 2026 09:00:00 +0200</lastBuildDate><atom:link href="https://salocal.info/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>News</title>
       <link>https://salocal.info/categories/news/</link>
       <pubDate>Sat, 16 May 2026 09:00:00 +0200</pubDate>
-      
+
       <guid>https://salocal.info/categories/news/</guid>
       <description>Latest news and updates affecting South Africans.</description>
     </item>
@@ -23,7 +24,7 @@
       <title>SASSA</title>
       <link>https://salocal.info/categories/sassa/</link>
       <pubDate>Sat, 16 May 2026 09:00:00 +0200</pubDate>
-      
+
       <guid>https://salocal.info/categories/sassa/</guid>
       <description>Guides and updates on SASSA grants, SRD applications, and payment methods.</description>
     </item>
@@ -32,7 +33,7 @@
       <title>Travel</title>
       <link>https://salocal.info/categories/travel/</link>
       <pubDate>Fri, 27 Mar 2026 19:10:00 +0200</pubDate>
-      
+
       <guid>https://salocal.info/categories/travel/</guid>
       <description>South African travel guides and local things to do.</description>
     </item>
@@ -41,7 +42,7 @@
       <title>Licences</title>
       <link>https://salocal.info/categories/licences/</link>
       <pubDate>Sun, 31 Jul 2022 11:37:37 +0200</pubDate>
-      
+
       <guid>https://salocal.info/categories/licences/</guid>
       <description>Driving licence renewals, learner licences, and vehicle disc renewals.</description>
     </item>
@@ -50,7 +51,7 @@
       <title>Traffic Fines</title>
       <link>https://salocal.info/categories/traffic-fines/</link>
       <pubDate>Mon, 18 Jul 2022 22:34:44 +0200</pubDate>
-      
+
       <guid>https://salocal.info/categories/traffic-fines/</guid>
       <description>Paying traffic fines and updates on fine payment providers.</description>
     </item>
@@ -59,7 +60,7 @@
       <title>Finance</title>
       <link>https://salocal.info/categories/finance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>https://salocal.info/categories/finance/</guid>
       <description>South African inflation, fuel costs, and economic updates.</description>
     </item>
