@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Our Authors on SA Info</title>
-    <link>https://salocal.info/authors/</link>
-    <description>Recent content in Our Authors on SA Info</description>
-    <image>
-      <url>https://salocal.info/img/logo/logo.svg</url>
-      <link>https://salocal.info/img/logo/logo.svg</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 29 Mar 2026 00:00:00 +0200</lastBuildDate><atom:link href="https://salocal.info/authors/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>SA Local Info — Editorial Team</title>
-      <link>https://salocal.info/authors/sa-local-info/</link>
-      <pubDate>Sun, 29 Mar 2026 00:00:00 +0200</pubDate>
-
-      <guid>https://salocal.info/authors/sa-local-info/</guid>
-      <description>The small Cape Town team behind SA Local Info: plain-English guides to South African fuel prices, SASSA grants, driving licences and travel, built from official public data.</description>
-    </item>
-    
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Our Authors on SA Local Info</title>
+		<link>https://salocal.info/authors/</link>
+		<description>Recent content in Our Authors on SA Local Info</description>
+		<generator>Hugo</generator>
+		<language>en-ZA</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 29 Mar 2026 00:00:00 +0200</lastBuildDate>
+		
+			<atom:link href="https://salocal.info/authors/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>SA Local Info — Editorial Team</title>
+				<link>https://salocal.info/authors/sa-local-info/</link>
+				<pubDate>Sun, 29 Mar 2026 00:00:00 +0200</pubDate>
+				<guid>https://salocal.info/authors/sa-local-info/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>

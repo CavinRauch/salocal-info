@@ -1,30 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Privacy on SA Info</title>
-    <link>https://salocal.info/privacy/</link>
-    <description>Recent content in Privacy on SA Info</description>
-    <image>
-      <url>https://salocal.info/img/logo/logo.svg</url>
-      <link>https://salocal.info/img/logo/logo.svg</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 05 Jul 2022 11:21:34 +0200</lastBuildDate><atom:link href="https://salocal.info/privacy/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Privacy Policy</title>
-      <link>https://salocal.info/privacy/policy/</link>
-      <pubDate>Tue, 05 Jul 2022 11:21:34 +0200</pubDate>
-
-      <guid>https://salocal.info/privacy/policy/</guid>
-      <description>&lt;p&gt;We do not and will not assist or permit any third party to, pass information to Google that
-Google could use or recognize as personally identifiable information. We abide by an
-appropriate Privacy Policy. The Privacy Policy therefore aims to ensure that a User is
-provided with clear and comprehensive information about, and consents to, the storing and
-accessing of cookies or other information on the User’s device where such activity occurs in
-connection with the Service and where providing such information and obtaining such
-consent is required by law.&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Privacy on SA Local Info</title>
+		<link>https://salocal.info/privacy/</link>
+		<description>Recent content in Privacy on SA Local Info</description>
+		<generator>Hugo</generator>
+		<language>en-ZA</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 25 Nov 2026 00:00:00 +0200</lastBuildDate>
+		
+			<atom:link href="https://salocal.info/privacy/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Privacy Policy</title>
+				<link>https://salocal.info/privacy/policy/</link>
+				<pubDate>Tue, 05 Jul 2022 11:21:34 +0200</pubDate>
+				<guid>https://salocal.info/privacy/policy/</guid>
+				<description>&lt;p&gt;This policy explains what information is collected when you visit salocal.info (&amp;ldquo;SA Local Info&amp;rdquo;, &amp;ldquo;we&amp;rdquo;, &amp;ldquo;us&amp;rdquo;) and how it is used. We are based in Cape Town, South Africa, and follow the Protection of Personal Information Act (POPIA).&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-short-version&#34;&gt;The short version&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;You do not need an account to use this site, and we never ask for your ID number, banking details or passwords.&lt;/li&gt;&#xA;&lt;li&gt;We use &lt;strong&gt;Google Analytics&lt;/strong&gt; to count visits and &lt;strong&gt;Google AdSense&lt;/strong&gt; to show ads. Both use cookies.&lt;/li&gt;&#xA;&lt;li&gt;We do not sell your personal information.&lt;/li&gt;&#xA;&lt;li&gt;If you email us, we use your email only to reply to you.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;information-we-collect&#34;&gt;Information we collect&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;When you browse the site.&lt;/strong&gt; We do not ask you for any personal information. Like most websites, the services below automatically receive technical information such as your IP address, browser and device type, the pages you visit and how you arrived at the site.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

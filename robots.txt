@@ -1,3 +1,5 @@
 User-agent: *
-Disallow:
+Allow: /
+
 Sitemap: https://salocal.info/sitemap.xml
+Sitemap: https://salocal.info/news-sitemap.xml

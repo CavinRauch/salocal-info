@@ -1,69 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>SASSA on SA Info</title>
-    <link>https://salocal.info/categories/sassa/</link>
-    <description>Recent content in SASSA on SA Info</description>
-    <image>
-      <url>https://salocal.info/img/logo/logo.svg</url>
-      <link>https://salocal.info/img/logo/logo.svg</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 16 May 2026 09:00:00 +0200</lastBuildDate><atom:link href="https://salocal.info/categories/sassa/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>SASSA Older Persons Grant 2026: R2,400 Amount, May Payment Date &amp; eLife Alert</title>
-      <link>https://salocal.info/za/sassa/sassa-older-persons-grant-2026/</link>
-      <pubDate>Sat, 16 May 2026 09:00:00 +0200</pubDate>
-
-      <guid>https://salocal.info/za/sassa/sassa-older-persons-grant-2026/</guid>
-      <description>The SASSA Older Persons Grant increased to R2,400 in April 2026. Here are the current amounts, May 2026 payment date, eLife certification requirement, and how to apply.</description>
-    </item>
-    
-    <item>
-      <title>SASSA SRD Grant June 2026: Still R370, Extended to March 2027</title>
-      <link>https://salocal.info/za/sassa/sassa-srd-grant-june-2026/</link>
-      <pubDate>Thu, 07 May 2026 12:00:00 +0200</pubDate>
-
-      <guid>https://salocal.info/za/sassa/sassa-srd-grant-june-2026/</guid>
-      <description>The SRD grant stays at R370 for June 2026 — no increase from the 2026 Budget, but extended to March 2027. Payment dates, eligibility, and how to check your status.</description>
-    </item>
-    
-    <item>
-      <title>South African E-Wallets Help SRD Recipients Receive Funds</title>
-      <link>https://salocal.info/za/sassa/south-african-e-wallets-help-srd-recipients-receive-funds/</link>
-      <pubDate>Fri, 24 Feb 2023 20:22:50 +0200</pubDate>
-
-      <guid>https://salocal.info/za/sassa/south-african-e-wallets-help-srd-recipients-receive-funds/</guid>
-      <description>Discover the benefits of digital wallets and how to fast-track payments for COVID-19 SRD. E-wallets and Cash Send services can help you receive funds easily.</description>
-    </item>
-    
-    <item>
-      <title>SASSA Grant requirements you need to know</title>
-      <link>https://salocal.info/za/sassa/sassa-grant-requirements/</link>
-      <pubDate>Tue, 02 Aug 2022 21:40:26 +0200</pubDate>
-
-      <guid>https://salocal.info/za/sassa/sassa-grant-requirements/</guid>
-      <description>SASSA provides grants to South Africans that cannot provide for themselves. Here&amp;#39;s a list of all the grants and the requirements to apply.</description>
-    </item>
-    
-    <item>
-      <title>New Process for R350 Grant Appeal</title>
-      <link>https://salocal.info/za/sassa/new-process-for-r350-grant-appeal/</link>
-      <pubDate>Wed, 29 Jun 2022 22:15:50 +0200</pubDate>
-
-      <guid>https://salocal.info/za/sassa/new-process-for-r350-grant-appeal/</guid>
-      <description>The requirements for the Social Relief of Distress R350 grant was recently changed. Here’s how the new appeals application process will work through ITTSA.</description>
-    </item>
-    
-    <item>
-      <title>How to check status for SRD Grant</title>
-      <link>https://salocal.info/za/sassa/srd-status-check/</link>
-      <pubDate>Tue, 07 Jun 2022 20:24:56 +0200</pubDate>
-
-      <guid>https://salocal.info/za/sassa/srd-status-check/</guid>
-      <description>The SRD R350 grant serves as a crucial relief measure for millions of unemployed South Africans. Here&amp;rsquo;s 3 easy ways to apply for your Sassa grant online.</description>
-    </item>
-    
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>SASSA on SA Local Info</title>
+		<link>https://salocal.info/categories/sassa/</link>
+		<description>Recent content in SASSA on SA Local Info</description>
+		<generator>Hugo</generator>
+		<language>en-ZA</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 16 May 2026 09:00:00 +0200</lastBuildDate>
+		
+			<atom:link href="https://salocal.info/categories/sassa/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>SASSA Older Persons Grant 2026: R2,400 Amount, May Payment Date &amp; eLife Alert</title>
+				<link>https://salocal.info/za/sassa/sassa-older-persons-grant-2026/</link>
+				<pubDate>Sat, 16 May 2026 09:00:00 +0200</pubDate>
+				<guid>https://salocal.info/za/sassa/sassa-older-persons-grant-2026/</guid>
+				<description>The SASSA Older Persons Grant is now R2,400 per month (R2,420 if you are 75 or older) after the April 2026 increase. May 2026 payment starts 5 May. eLife certification is now required — here is everything you need to know.</description>
+			</item>
+			<item>
+				<title>SASSA SRD Grant June 2026: Still R370, Extended to March 2027</title>
+				<link>https://salocal.info/za/sassa/sassa-srd-grant-june-2026/</link>
+				<pubDate>Thu, 07 May 2026 12:00:00 +0200</pubDate>
+				<guid>https://salocal.info/za/sassa/sassa-srd-grant-june-2026/</guid>
+				<description>The SRD grant stays at R370 for June 2026 — no increase from the 2026 Budget, but extended to March 2027. Payment dates, eligibility, and how to check your status.</description>
+			</item>
+			<item>
+				<title>South African E-Wallets Help SRD Recipients Receive Funds</title>
+				<link>https://salocal.info/za/sassa/south-african-e-wallets-help-srd-recipients-receive-funds/</link>
+				<pubDate>Fri, 24 Feb 2023 20:22:50 +0200</pubDate>
+				<guid>https://salocal.info/za/sassa/south-african-e-wallets-help-srd-recipients-receive-funds/</guid>
+				<description>&lt;p&gt;In South Africa, clients who rely on receiving funds through the Cash Send service are being urged to collect their funds as soon as they receive an SMS with a voucher number for their chosen bank. But what if clients have been approved for COVID-19 SRD but no payment date is indicated on their January status or earlier months, and have selected to be paid through the Postbank or Cashsend? In this case, they are urged to open bank accounts and upload them on the system to fast-track payments.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>SASSA Grant requirements you need to know</title>
+				<link>https://salocal.info/za/sassa/sassa-grant-requirements/</link>
+				<pubDate>Tue, 02 Aug 2022 21:40:26 +0200</pubDate>
+				<guid>https://salocal.info/za/sassa/sassa-grant-requirements/</guid>
+				<description>SASSA provides grants to South Africans that cannot provide for themselves. Here&amp;rsquo;s a list of all the grants and the requirements to apply.</description>
+			</item>
+			<item>
+				<title>New Process for R350 Grant Appeal</title>
+				<link>https://salocal.info/za/sassa/new-process-for-r350-grant-appeal/</link>
+				<pubDate>Wed, 29 Jun 2022 22:15:50 +0200</pubDate>
+				<guid>https://salocal.info/za/sassa/new-process-for-r350-grant-appeal/</guid>
+				<description>The requirements for the Social Relief of Distress R350 grant was recently changed. Here’s how the new appeals application process will work through ITTSA.</description>
+			</item>
+			<item>
+				<title>How to check status for SRD Grant</title>
+				<link>https://salocal.info/za/sassa/srd-status-check/</link>
+				<pubDate>Tue, 07 Jun 2022 20:24:56 +0200</pubDate>
+				<guid>https://salocal.info/za/sassa/srd-status-check/</guid>
+				<description>The SRD R350 grant serves as a crucial relief measure for millions of unemployed South Africans. Here&amp;rsquo;s 3 easy ways to apply for your Sassa grant online.</description>
+			</item>
+	</channel>
 </rss>
