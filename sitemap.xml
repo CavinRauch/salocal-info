@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://salocal.info/categories/</loc>
+    <lastmod>2026-11-25T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://salocal.info/categories/news/</loc>
+    <lastmod>2026-11-25T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://salocal.info/za/petrol/fuel-price-forecast-december-2026/</loc>
+    <lastmod>2026-11-25T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://salocal.info/</loc>
+    <lastmod>2026-11-25T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://salocal.info/categories/travel/</loc>
+    <lastmod>2026-11-25T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://salocal.info/za/</loc>
+    <lastmod>2026-11-25T09:00:00+02:00</lastmod>
+  </url><url>
     <loc>https://salocal.info/contact/</loc>
     <lastmod>2026-11-24T12:00:00+02:00</lastmod>
   </url><url>
@@ -11,22 +29,10 @@
     <loc>https://salocal.info/editorial-policy/</loc>
     <lastmod>2026-11-24T12:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://salocal.info/</loc>
-    <lastmod>2026-11-25T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://salocal.info/categories/</loc>
-    <lastmod>2026-05-16T09:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://salocal.info/categories/news/</loc>
-    <lastmod>2026-05-16T09:00:00+02:00</lastmod>
-  </url><url>
     <loc>https://salocal.info/categories/sassa/</loc>
     <lastmod>2026-05-16T09:00:00+02:00</lastmod>
   </url><url>
     <loc>https://salocal.info/za/sassa/sassa-older-persons-grant-2026/</loc>
-    <lastmod>2026-05-16T09:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://salocal.info/za/</loc>
     <lastmod>2026-05-16T09:00:00+02:00</lastmod>
   </url><url>
     <loc>https://salocal.info/za/petrol/diesel-price-forecast-june-2026-south-africa/</loc>
@@ -49,9 +55,6 @@
   </url><url>
     <loc>https://salocal.info/za/petrol/petrol-price-increase-south-africa-april-2026/</loc>
     <lastmod>2026-03-27T19:10:00+02:00</lastmod>
-  </url><url>
-    <loc>https://salocal.info/categories/travel/</loc>
-    <lastmod>2026-03-28T16:52:26+02:00</lastmod>
   </url><url>
     <loc>https://salocal.info/za/petrol/petrol-price-forecast-south-africa/</loc>
     <lastmod>2026-03-28T16:52:26+02:00</lastmod>

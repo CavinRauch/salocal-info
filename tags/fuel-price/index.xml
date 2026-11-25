@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>fuel-price on SA Local Info</title>
+		<title>fuel price on SA Local Info</title>
 		<link>https://salocal.info/tags/fuel-price/</link>
-		<description>Recent content in fuel-price on SA Local Info</description>
+		<description>Recent content in fuel price on SA Local Info</description>
 		<generator>Hugo</generator>
 		<language>en-ZA</language>
 		
 		
 		
 		
-			<lastBuildDate>Thu, 07 May 2026 15:00:00 +0200</lastBuildDate>
+			<lastBuildDate>Wed, 25 Nov 2026 09:00:00 +0200</lastBuildDate>
 		
 			<atom:link href="https://salocal.info/tags/fuel-price/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Petrol and Diesel Expected to Drop on 2 December 2026</title>
+				<link>https://salocal.info/za/petrol/fuel-price-forecast-december-2026/</link>
+				<pubDate>Wed, 25 Nov 2026 09:00:00 +0200</pubDate>
+				<guid>https://salocal.info/za/petrol/fuel-price-forecast-december-2026/</guid>
+				<description>CEF data to 24 November points to a petrol cut of R3.71 to R3.93 a litre and a diesel cut of R1.93 to R2.38 from Wednesday, 2 December 2026.</description>
+			</item>
 			<item>
 				<title>Diesel Price Forecast June 2026: CEF Data Signals a Decrease</title>
 				<link>https://salocal.info/za/petrol/diesel-price-forecast-june-2026-south-africa/</link>
