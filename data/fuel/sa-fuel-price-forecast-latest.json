@@ -1,0 +1,102 @@
+{
+  "title": "South African fuel price forecast (latest)",
+  "updated": "2026-11-25T10:30:00+02:00",
+  "data_date": "2026-11-24",
+  "window": {
+    "start": "2026-10-30",
+    "end": "2026-11-24"
+  },
+  "current_prices_effective": "2026-11-04",
+  "change_expected_on": "2026-12-02",
+  "units": "South African cents per litre",
+  "sign": "negative = expected to get cheaper, positive = expected to get dearer",
+  "regions": {
+    "inland": "Gauteng, zone 9C",
+    "coastal": "coastal zone 1A"
+  },
+  "rand_per_us_dollar": 17.485,
+  "fuels": {
+    "petrol_93": {
+      "name": "Petrol 93 (ULP 93)",
+      "price_type": "pump price",
+      "expected_change_c": -371.169,
+      "from_product_prices_c": -394.331,
+      "from_exchange_rate_c": 23.162,
+      "inland": {
+        "current_c": 2987,
+        "expected_c": 2615.831
+      },
+      "coastal": {
+        "current_c": 2900,
+        "expected_c": 2528.831
+      }
+    },
+    "petrol_95": {
+      "name": "Petrol 95 (ULP 95)",
+      "price_type": "pump price",
+      "expected_change_c": -393.053,
+      "from_product_prices_c": -416.462,
+      "from_exchange_rate_c": 23.409,
+      "inland": {
+        "current_c": 3024,
+        "expected_c": 2630.947
+      },
+      "coastal": {
+        "current_c": 2937,
+        "expected_c": 2543.947
+      }
+    },
+    "diesel_500ppm": {
+      "name": "Diesel 500ppm (0.05% sulphur)",
+      "price_type": "wholesale price",
+      "expected_change_c": -193.313,
+      "from_product_prices_c": -228.212,
+      "from_exchange_rate_c": 34.9,
+      "inland": {
+        "current_c": 3085.67,
+        "expected_c": 2892.357
+      },
+      "coastal": {
+        "current_c": 2998.47,
+        "expected_c": 2805.157
+      }
+    },
+    "diesel_50ppm": {
+      "name": "Diesel 50ppm (0.005% sulphur)",
+      "price_type": "wholesale price",
+      "expected_change_c": -238.144,
+      "from_product_prices_c": -273.553,
+      "from_exchange_rate_c": 35.409,
+      "inland": {
+        "current_c": 3160.07,
+        "expected_c": 2921.926
+      },
+      "coastal": {
+        "current_c": 3072.87,
+        "expected_c": 2834.726
+      }
+    },
+    "paraffin": {
+      "name": "Illuminating paraffin",
+      "price_type": "wholesale price",
+      "expected_change_c": -303.448,
+      "from_product_prices_c": -337.698,
+      "from_exchange_rate_c": 34.25,
+      "inland": {
+        "current_c": 2722.098,
+        "expected_c": 2418.65
+      },
+      "coastal": {
+        "current_c": 2616.698,
+        "expected_c": 2313.25
+      }
+    }
+  },
+  "is_forecast": true,
+  "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+  "credit": "SA Local Info, https://salocal.info/fuel-price-data/",
+  "sources": {
+    "cef_daily_report": "https://cefgroup.co.za/wp-content/uploads/2026/11/Daily-24-11-2026.pdf",
+    "official_prices": "https://bit.ly/4sZwrAY"
+  }
+}
