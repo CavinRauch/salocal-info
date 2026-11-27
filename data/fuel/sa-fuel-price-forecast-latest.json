@@ -1,10 +1,10 @@
 {
   "title": "South African fuel price forecast (latest)",
-  "updated": "2026-11-26T20:33:46+02:00",
-  "data_date": "2026-11-25",
+  "updated": "2026-11-27T20:21:40+02:00",
+  "data_date": "2026-11-26",
   "window": {
     "start": "2026-10-30",
-    "end": "2026-11-25"
+    "end": "2026-11-26"
   },
   "current_prices_effective": "2026-11-04",
   "change_expected_on": "2026-12-02",
@@ -14,81 +14,81 @@
     "inland": "Gauteng, zone 9C",
     "coastal": "coastal zone 1A"
   },
-  "rand_per_us_dollar": 17.5868,
+  "rand_per_us_dollar": 17.5185,
   "fuels": {
     "petrol_93": {
       "name": "Petrol 93 (ULP 93)",
       "price_type": "pump price",
-      "expected_change_c": -378.826,
-      "from_product_prices_c": -405.164,
-      "from_exchange_rate_c": 26.338,
+      "expected_change_c": -385.751,
+      "from_product_prices_c": -414.637,
+      "from_exchange_rate_c": 28.886,
       "inland": {
         "current_c": 2987,
-        "expected_c": 2608.174
+        "expected_c": 2601.249
       },
       "coastal": {
         "current_c": 2900,
-        "expected_c": 2521.174
+        "expected_c": 2514.249
       }
     },
     "petrol_95": {
       "name": "Petrol 95 (ULP 95)",
       "price_type": "pump price",
-      "expected_change_c": -400.795,
-      "from_product_prices_c": -427.414,
-      "from_exchange_rate_c": 26.619,
+      "expected_change_c": -407.297,
+      "from_product_prices_c": -436.501,
+      "from_exchange_rate_c": 29.204,
       "inland": {
         "current_c": 3024,
-        "expected_c": 2623.205
+        "expected_c": 2616.703
       },
       "coastal": {
         "current_c": 2937,
-        "expected_c": 2536.205
+        "expected_c": 2529.703
       }
     },
     "diesel_500ppm": {
       "name": "Diesel 500ppm (0.05% sulphur)",
       "price_type": "wholesale price",
-      "expected_change_c": -204.492,
-      "from_product_prices_c": -244.183,
-      "from_exchange_rate_c": 39.691,
+      "expected_change_c": -213.214,
+      "from_product_prices_c": -256.778,
+      "from_exchange_rate_c": 43.564,
       "inland": {
         "current_c": 3085.67,
-        "expected_c": 2881.178
+        "expected_c": 2872.456
       },
       "coastal": {
         "current_c": 2998.47,
-        "expected_c": 2793.978
+        "expected_c": 2785.256
       }
     },
     "diesel_50ppm": {
       "name": "Diesel 50ppm (0.005% sulphur)",
       "price_type": "wholesale price",
-      "expected_change_c": -250.089,
-      "from_product_prices_c": -290.346,
-      "from_exchange_rate_c": 40.257,
+      "expected_change_c": -259.413,
+      "from_product_prices_c": -303.587,
+      "from_exchange_rate_c": 44.174,
       "inland": {
         "current_c": 3160.07,
-        "expected_c": 2909.981
+        "expected_c": 2900.657
       },
       "coastal": {
         "current_c": 3072.87,
-        "expected_c": 2822.781
+        "expected_c": 2813.457
       }
     },
     "paraffin": {
       "name": "Illuminating paraffin",
       "price_type": "wholesale price",
-      "expected_change_c": -317.39,
-      "from_product_prices_c": -356.309,
-      "from_exchange_rate_c": 38.919,
+      "expected_change_c": -328.804,
+      "from_product_prices_c": -371.484,
+      "from_exchange_rate_c": 42.68,
       "inland": {
         "current_c": 2722.098,
-        "expected_c": 2404.708
+        "expected_c": 2393.294
       },
       "coastal": {
         "current_c": 2616.698,
-        "expected_c": 2299.308
+        "expected_c": 2287.894
       }
     }
   },
@@ -96,7 +96,7 @@
   "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
   "credit": "SA Local Info, https://salocal.info/fuel-price-data/",
   "sources": {
-    "cef_daily_report": "https://cefgroup.co.za/wp-content/uploads/2026/11/Daily-25-11-2026.pdf",
+    "cef_daily_report": "https://cefgroup.co.za/wp-content/uploads/2026/11/Daily-26-11-2026.pdf",
     "official_prices": "https://bit.ly/4sZwrAY"
   }
 }

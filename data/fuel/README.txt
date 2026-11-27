@@ -2,7 +2,7 @@ South African fuel price forecast data
 ======================================
 
 Published by SA Local Info: https://salocal.info/fuel-price-data/
-Updated: 2026-11-26 20:33 SAST. New figures are added on most weekdays.
+Updated: 2026-11-27 20:21 SAST. New figures are added on most weekdays.
 Licence: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Please credit "SA Local Info (salocal.info)" and link to
 https://salocal.info/fuel-price-data/
 
@@ -22,7 +22,7 @@ amount.
 
 
 1. sa-fuel-price-forecast-daily.csv
-   One row per Central Energy Fund (CEF) daily report, 2026-03-12 to 2026-11-25.
+   One row per Central Energy Fund (CEF) daily report, 2026-03-12 to 2026-11-26.
    It is the running average for the current monthly window: how much each
    fuel is expected to change on the next adjustment date if nothing else
    changes. It is a forecast, not an official price.
